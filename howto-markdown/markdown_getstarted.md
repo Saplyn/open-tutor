@@ -8,6 +8,8 @@ In short, **Markdown** is a lightweight markup language for creating formatted t
 
 ![markdown_showcase](./markdown_getstarted.assets/markdown_showcase.png)
 
+---
+
 ## #️⃣ Headline (Syntax)
 
 ```markdown
@@ -15,8 +17,6 @@ In short, **Markdown** is a lightweight markup language for creating formatted t
 ## Heading level 2
 ### Heading level 3
 ```
-
----
 
 # Heading level 1
 ## Heading level 2
@@ -32,8 +32,6 @@ This is a paragraph. You can write your words here.
 This is another paragraph. Make sure there's an empty line between paragraphs.
 If not, it will be considered as one paragraph.
 ```
-
----
 
 This is a paragraph. You can write your words here.
 
@@ -54,8 +52,6 @@ If you want, it can be ***Both***.
 **Multiple Words** are also supported.
 ```
 
----
-
 Make you words **Bold**.
 
 Or make it *Italic*
@@ -71,8 +67,6 @@ If you want, it can be ***Both***
 ```markdown
 I didn't finish my homework, ~~because I was too lazy to do it.~~
 ```
-
----
 
 I didn't finish my homework, ~~because I was too lazy to do it.~~
 
@@ -91,8 +85,6 @@ I didn't finish my homework, ~~because I was too lazy to do it.~~
 1. Don't worry, the order will render automatically
 ```
 
----
-
 - This is an unordered list
 - Every line starts with a '-'
 - Note that there must be an Empty Space between '-' and your words
@@ -110,8 +102,6 @@ I didn't finish my homework, ~~because I was too lazy to do it.~~
 This is a [Hyperlink](https://www.baidu.com/) that links to Baidu.
 ```
 
----
-
 This is a [Hyperlink](https://www.baidu.com/) that links to Baidu.
 
 ---
@@ -123,8 +113,6 @@ Look! A picture!
 
 ![The Name of The Image](https://github.com/CS-2022-Group-6/weahter-cat/raw/main/assets/CS6_Icon.png)
 ```
-
----
 
 Look! A picture!
 
@@ -144,8 +132,6 @@ int main() {
 }
 ```
 ````
-
----
 
 Here comes the Codes~
 
